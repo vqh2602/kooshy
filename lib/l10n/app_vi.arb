@@ -1,0 +1,11 @@
+{
+  "helloWorld": "xin chào",
+  "lang": "vi",
+  "loadHead": "Đang tải dữ liệu",
+  "introApp": "Một ứng dụng gọn nhẹ, giúp bạn giải toả căng thẳng và giảm thời gian sử dụng điện thoại",
+  "introWeather": "Hiển thị thông tin thời tiết chính xác từ vị trí của bạn, vuốt phải để hiện thời tiết 48 giờ, kéo xuống để làm mới dữ liệu",
+  "introMusic": "Chạm vào vòng tròn bên ngoài bao quanh biểu tượng thời tiết thể phát nhạc thư giãn và giảm stress",
+  "introAppTitle": "KooShy",
+  "introWeatherTitle": "Thời Tiết Chính Xác",
+  "introMusicTitle": "Những Bản Nhạc Thư Giãn"
+}

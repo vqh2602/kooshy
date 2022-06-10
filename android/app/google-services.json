@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "864210940068",
+    "project_id": "kooshy-74a34",
+    "storage_bucket": "kooshy-74a34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864210940068:android:1e316dfc4840838c2e3631",
+        "android_client_info": {
+          "package_name": "com.example.kooshy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864210940068-3pip26ntoe643s5bfkgrn728uvj8adal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaU1CQjaXy6PVgrakjgILQaCmoG0FcLMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864210940068-3pip26ntoe643s5bfkgrn728uvj8adal.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "864210940068-4gf5h0c3d1f2s9r8hqncdtpdphjk1oom.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kooshy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864210940068:android:2809a16efba6411a2e3631",
+        "android_client_info": {
+          "package_name": "com.vqh2602.kooshy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864210940068-3pip26ntoe643s5bfkgrn728uvj8adal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaU1CQjaXy6PVgrakjgILQaCmoG0FcLMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864210940068-3pip26ntoe643s5bfkgrn728uvj8adal.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "864210940068-4gf5h0c3d1f2s9r8hqncdtpdphjk1oom.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kooshy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

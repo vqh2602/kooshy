@@ -1,0 +1,38 @@
+{
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+      "description": "The conventional newborn programmer greeting"
+    },
+  "lang": "es",
+  "@lang": {
+    "description": "Lang api"
+  },
+  "loadHead": "Loadding . . .",
+  "@loadHead": {
+    "description": "load data"
+  },
+  "introApp": "A lightweight application that helps you relieve stress and reduce phone time",
+  "@introApp": {
+    "description": "intro app1"
+  },
+  "introWeather": "Shows exact weather information from your location, swipe right to show 48 hour weather, drag down to refresh data",
+  "@introWeather": {
+    "description": "intro app2"
+  },
+  "introMusic": "Tapping the outer circle surrounding the weather icon can play relaxing and stress-relieving music",
+  "@introMusic": {
+    "description": "intro app3"
+  },
+  "introAppTitle": "KooShy",
+  "@introAppTitle": {
+    "description": "intro app1"
+  },
+  "introWeatherTitle": "Accurate Weather",
+  "@introWeatherTitle": {
+    "description": "intro app2"
+  },
+  "introMusicTitle": "Relaxing Music",
+  "@introMusicTitle": {
+    "description": "intro app3"
+  }
+}
