@@ -1,16 +1,9 @@
 # kooshy
 
-A new Flutter project.
+Flutter project.
 
-## Getting Started
+## 
+- sử dụng Flutter & Dart, lấy dữ liệu từ Api https://openweathermap.org/api, quản lí State với Bloc
+- demo: https://play.google.com/store/apps/details?id=com.vqh2602.kooshy
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
